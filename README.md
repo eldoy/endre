@@ -1,6 +1,11 @@
 # Endre
 Automatic changelog generator
 
+Features:
+
+* Generates a CHANGELOG.md file based on git log
+* Can generate a global CHANGELOG.md based on all sub-repos in multi-repo
+
 All git commit messages must be prefixed with:
 
 * feat
